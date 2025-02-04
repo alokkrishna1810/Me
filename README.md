@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate developer exploring various domains of Software Development. 🚀
 
 ## 🔥 About Me
-- 💻 Proficient in **C, C++, JavaScript, and**
-- 📌 Skilled in **Web Development and Software Engineering**
+- 💻 Proficient in **C, C++, JavaScript**
+- 📌 Skilled in **Web Development, Data Structure & Algorithms and Software Engineering**
 - 🌱 Currently learning **Advanced Algorithms and Backend Development**
 
 ## 🚀 Skills & Technologies

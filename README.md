@@ -1,4 +1,3 @@
-```markdown
 # Hi there! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer exploring various domains of Software Development. 🚀
@@ -20,5 +19,4 @@ Welcome to my GitHub profile! I'm a passionate developer exploring various domai
 - LinkedIn: alok-krishna (https://www.linkedin.com/in/alok-krishna-7a5794264/)
 
 Let's innovate and build something amazing together! 🚀
-```
 

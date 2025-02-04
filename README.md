@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a passionate developer exploring various domai
 - **Tools & Platforms:** Git, Github, VS Code, npm, Vite, Appwrite
 
 ## 📫 Connect with Me
-- GitHub: alokkrishna1810
-- LinkedIn: alok-krishna (https://www.linkedin.com/in/alok-krishna-7a5794264/)
+- GitHub: alokkrishna1810(https://github.com/alokkrishna1810)
+- LinkedIn: alok-krishna(https://www.linkedin.com/in/alok-krishna-7a5794264)
 
 Let's innovate and build something amazing together! 🚀
 
